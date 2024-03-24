@@ -169,6 +169,16 @@ sch.html
 ```
 
 ## OUTPUT
+![Screenshot (15)](https://github.com/madhanraj67/NearMe/assets/150319515/537bff80-2199-413c-b5e6-e4b8005512a1)
+![Screenshot (16)](https://github.com/madhanraj67/NearMe/assets/150319515/cf44c385-5018-4f2e-92a8-8d79a72601f5)
+![Screenshot (17)](https://github.com/madhanraj67/NearMe/assets/150319515/2348cbc6-f43f-468c-afe3-aaff4b83209e)
+![Screenshot (18)](https://github.com/madhanraj67/NearMe/assets/150319515/0a0b12dc-4b48-4981-9512-4dade76e4891)
+![Screenshot (19)](https://github.com/madhanraj67/NearMe/assets/150319515/5eab9b54-ee0e-404d-83ae-cb3e31803136)
+
+
+
+
+
 
 
 
